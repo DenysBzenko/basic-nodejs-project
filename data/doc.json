@@ -1,0 +1,46 @@
+{
+    "endpoints": [
+        {
+            "path": "/html1",
+            "method": "GET",
+            "description": "Send page about cats"
+            
+        },
+        {
+            "path": "/html2",
+            "method": "GET",
+            "description": "Send page about dogs."
+            
+        },
+        {
+            "path": "/file/:filename",
+            "method": "GET",
+            "description": "Send file in project"
+            
+        },
+        {
+            "path": "/objects/:type/:id",
+            "method": "GET",
+            "description": "Send informatio about cat or dogs, and hsve id "
+            
+        },
+        {
+            "path": "/objects/:type",
+            "method": "GET",
+            "description": "Send all objects about cat or dog"
+           
+        },
+        {
+            "path": "/objects",
+            "method": "GET",
+            "description": "Send all objaects"
+            
+        },
+        {
+            "path": "/info",
+            "method": "GET",
+            "description": "Send all this documantion"
+            
+        }
+    ]
+}
