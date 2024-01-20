@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Пес патрон",
+      "description": "Думаю тут нічого не треба казати",
+      "image": "images/dog.jpg",
+      "audio": "audio/dog.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Бобік",
+      "description": "Бобік є бобік, і нічого зайвого ",
+      "image": "images/dog1.jpg",
+      "audio": "audio/dog1.mp3"
+    }
+  ]
+  
